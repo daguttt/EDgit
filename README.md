@@ -11,3 +11,11 @@ Se recomienda que crear una organización que sea la propietaria del repositorio
 
 ## Creación del Fork
 Ir a la landing page del proyecto a través de tu cuenta personal y después darle click en el botón "Fork".
+
+## Como trabajar con las ramas
+
+Listar remotos
+`git remote -v`
+
+Agregar remotos
+`git remote add origin-dagutx-learning`
