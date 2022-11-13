@@ -18,4 +18,4 @@ Listar remotos
 `git remote -v`
 
 Agregar remotos
-`git remote add origin-dagutx-learning`
+`git remote add origin <remote-name>`
